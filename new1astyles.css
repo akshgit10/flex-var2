@@ -1,0 +1,73 @@
+.heading{
+    display:flex;
+    justify-content: space-around;
+    padding-left:400px;
+    padding-right:400px;
+    padding-top:30px;
+    padding-bottom: 60px;
+    list-style-type:none;
+    background-color: rgb(5, 5, 5);
+    color:white;
+    margin-top: 0px;
+}
+.child{
+    width: 200px;
+    margin:auto;
+    text-align: center;
+    margin: top 200px;
+    box-shadow: 0px 2px 10px black;
+    padding:50px;
+    background-color: rgb(252, 248, 248);
+    
+}
+img{
+    border-radius: 50%;
+    width:130px;
+    height:130px;
+    margin:auto;
+    box-shadow: 1px 2px 7px rgb(30, 30, 55);
+    margin-bottom: 40px;
+} 
+a{
+    text-decoration: none;
+    color: white;
+    margin:auto;
+    
+}
+.parent{
+    display:flex;
+    margin-top: 120px;
+    justify-content: space-around;
+}
+.p{
+    text-align: center;
+    border-radius: 30px;
+    color:white;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+body{
+    background-image:url(https://img.freepik.com/free-vector/realistic-tropical-leaves-wallpaper_23-2148392033.jpg);
+}
+.c1{
+    background-color: rgb(239, 250, 137);
+    padding: 4px;
+    color:black;
+    
+}
+.c2{
+    background-color: rgb(239, 250, 137);
+    padding: 4px;
+    color:black;
+}
+.c3{
+    background-color: rgb(239, 250, 137);
+    padding: 4px;
+    color:black;
+}
+.c4{
+    background-color: rgb(239, 250, 137);
+    padding: 4px;
+    color:black;
+}
